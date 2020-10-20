@@ -1,1 +1,1 @@
-# OFP-ES
+# One Figure Project
