@@ -1,3 +1,0 @@
-# One Figure Project 
-
-
